@@ -1,0 +1,18 @@
+body {
+  background-color: teal;
+}
+
+h1 {
+  font-family: monospace;
+  font-size: 25px;
+}
+#form1 {
+  font-family: monospace;
+  font-size: 10px;
+}
+
+#img{
+  border-color: black;
+  border-width: 10px;
+  border-style: solid;
+}
